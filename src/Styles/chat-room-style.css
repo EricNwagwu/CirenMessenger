@@ -1,0 +1,13 @@
+.chat-window{
+    background: rgb(223, 247, 255);
+    border-radius: 5px;
+    height: 50vh;
+    overflow-y: auto;
+}
+.chatbubble{
+    list-style-type: none;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
+    width: auto;
+}

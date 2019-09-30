@@ -1,0 +1,25 @@
+:root{
+    --text-colors: var(--textcolors, )
+}
+
+
+
+.navbar{
+    box-shadow: 1px 1px 5px 1px black;
+}
+.nav-item-wrapper{
+    width: 100vw;
+}
+
+.nav-link{
+    font-family: Bangers;
+    font-size: 45px;
+    margin-right: 5vw;
+    color: var(--textcolors, rgb(93, 185, 243));
+}
+
+.MS{
+    color: var(--textcolors, rgb(93, 185, 243));
+    font-size: 30px;
+    font-family: Bangers;
+}
